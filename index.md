@@ -5,7 +5,7 @@ Hi! I’m Owen, a junior at Lehigh University pursuing a Bachelor of Science in 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IMG_2604.PNG?raw=true" width="50%">
+  <img class="img-circle" src="images/IMG_2604.PNG?raw=true" width="50%" height="50%">
 </p>
 
 ---
@@ -14,18 +14,24 @@ Hi! I’m Owen, a junior at Lehigh University pursuing a Bachelor of Science in 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Analyzing 10-Ks for Positive and Negative Sentiment](report/report)**_
+_**[Analyzing 10-Ks for Positive and Negative Sentiment](report/report.md)**_
 
-<img src="report/output_17_0.png?raw=true"/>
-
+<img src="report/output_17_0.png?raw=true" width="25%" height="25%"/>
 
 ---
+
+_**[Final Project: Macro Drivers of Dollar Strength](https://thereddestbulls.streamlit.app/)**_
+
+An interactive Streamlit dashboard analyzing how U.S. macroeconomic indicators affect the dollar’s strength across major currency pairs.
+
+<img src="images/download.png?raw=true"/>
+
+--
 
 _**[Housing Price Prediction with XGBoost](/submission/MY_PREDICTIONS.csv)**_
 
 Built an advanced XGBoost regression pipeline to predict housing prices using extensive feature engineering, hyperparameter tuning, and cross-validation — achieving a final R² of 0.96 on the full training set.
 
-<img src="images/housing_project_thumbnail.png?raw=true"/>
 
 ---
 
