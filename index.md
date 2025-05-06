@@ -34,6 +34,7 @@ _**[Housing Price Prediction with XGBoost](/submission/MY_PREDICTIONS.csv)**_
 
 Built an advanced XGBoost regression pipeline to predict housing prices using extensive feature engineering, hyperparameter tuning, and cross-validation — achieving a final R² of 0.96 on the full training set.
 
+<img src="downloadhouse.jpeg?raw=true"/>
 
 ---
 
