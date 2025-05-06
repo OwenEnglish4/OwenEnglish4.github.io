@@ -5,7 +5,7 @@ Hi! I’m Owen, a junior at Lehigh University pursuing a Bachelor of Science in 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IMG_2604.PNG?raw=true" width="50%" height="50%">
+  <img class="img-circle" src="images/IMG_2604.PNG?raw=true" width="40%" height="40%">
 </p>
 
 ---
@@ -16,7 +16,7 @@ Hi! I’m Owen, a junior at Lehigh University pursuing a Bachelor of Science in 
 
 _**[Analyzing 10-Ks for Positive and Negative Sentiment](report/report.md)**_
 
-<img src="report/output_17_0.png?raw=true" width="25%" height="25%"/>
+<img src="report/output_17_0.png?raw=true" width="50%" height="50%"/>
 
 ---
 
