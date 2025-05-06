@@ -26,7 +26,7 @@ _**[Final Project: Macro Drivers of Dollar Strength](https://thereddestbulls.str
 
 An interactive Streamlit dashboard analyzing how U.S. macroeconomic indicators affect the dollar’s strength across major currency pairs.
 
-<img src="images/download.png?raw=true"/>
+<img src="images/download.png?raw=true" width="60%" height="60%"/>
 
 --
 
