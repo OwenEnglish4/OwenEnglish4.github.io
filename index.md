@@ -16,6 +16,8 @@ Hi! I’m Owen, a junior at Lehigh University pursuing a Bachelor of Science in 
 
 _**[Analyzing 10-Ks for Positive and Negative Sentiment](report/report.md)**_
 
+Analyzed the sentiment in company 10-K filings using natural language processing and tested the impact of this sentiment against post 10-K returns.
+
 <img src="report/output_17_0.png?raw=true" width="80%" height="80%"/>
 
 ---
